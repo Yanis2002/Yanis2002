@@ -1,7 +1,7 @@
-Python JS JT
+- Python JS JT
 
-Web
+- Web
 
-Tokio Docker GitLab CI/CD Ubuntu Linux
+- Tokio Docker GitLab CI/CD Ubuntu Linux
 
-PostgreSQL MongoDB
+- PostgreSQL MongoDB
